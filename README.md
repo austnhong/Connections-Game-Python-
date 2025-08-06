@@ -1,0 +1,15 @@
+Find groups of four items that share something in common.
+Enter four items to check if your guess is correct.
+Find the groups without making 4 mistakes.
+Category Examples:
+   FISH: BASS, FLOUNDER, SALMON, TROUT
+   FIRE ___: ANT, DRILL, ISLAND, OPAL
+Each puzzle has exactly one solution.
+Watch out for words that seems to belong to multiple categories.
+Each group is assigned a color, which will be revealed as you solve:
+Yellow: Straightforward
+Green:    |
+Blue:     V
+Purple: Tricky
+
+
